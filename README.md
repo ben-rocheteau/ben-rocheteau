@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/ben-rocheteau/ben-rocheteau/blob/main/Smilys.PNG?raw=true" width="100"/>
+  <img src="https://github.com/ben-rocheteau/ben-rocheteau/blob/main/Bic Pic.jpeg?raw=true" width="100"/>
 </div>
 
 <div id="badges" align="center">
